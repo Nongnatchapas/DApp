@@ -104,4 +104,4 @@ npm run dev
 ```
 
 ผลลัพธ์จากการพัฒนาและแก้ไข
-![result](img/result.png)
+![result](img/result.PNG)
