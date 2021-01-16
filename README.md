@@ -1,2 +1,2 @@
 # DAPP
-truffle init
+# truffle init
