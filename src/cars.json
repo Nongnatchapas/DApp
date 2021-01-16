@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "H8",
+    "picture": "images/H8.png",
+    "speed": "35-40 km/hr",
+    "fully_Charger": "80 km",
+    "battery": "100"
+  },
+  {
+    "id": 1,
+    "name": "T3",
+    "picture": "images/T3.png",
+    "speed": "30-35 km/hr",
+    "fully_Charger": "70 km",
+    "battery": "60"
+  },
+  {
+    "id": 2,
+    "name": "T3S",
+    "picture": "images/T3S.png",
+    "speed": "30-35 km/hr",
+    "fully_Charger": "75 km",
+    "battery": "80"
+  },
+  {
+    "id": 3,
+    "name": "T4",
+    "picture": "images/T4.png",
+    "speed": "35-40 km/hr",
+    "sully_Charger": "75 km",
+    "battery": "75"
+  },
+  {
+    "id": 4,
+    "name": "Z10",
+    "picture": "images/Z10.png",
+    "speed": "30-35 km/hr",
+    "fully_Charger": "80 km",
+    "battery": "95"
+  },
+  {
+    "id": 5,
+    "name": "Z11",
+    "picture": "images/Z11.png",
+    "speed": "35-40 km/hr",
+    "fully_Charger": "80 km",
+    "battery": "85"
+  },
+  {
+    "id": 6,
+    "name": "Z12",
+    "picture": "images/Z12.png",
+    "speed": "30-35 km/hr",
+    "fully_Charger": "75 km",
+    "battery": "100"
+  }
+]
